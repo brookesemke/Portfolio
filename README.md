@@ -1,7 +1,7 @@
 # My Web Development Portfolio
 
 ## Purpose
-A website that built by me to showcase my web development work. 
+A website built by me to showcase my web development work. 
 
 ## Built With
 * HTML
