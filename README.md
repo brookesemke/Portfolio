@@ -8,4 +8,4 @@ A website built by me to showcase my web development work.
 * CSS
 
 ## Website
-https://brookesemke.github.io/Porfolio/
+https://brookesemke.github.io/Portfolio/
